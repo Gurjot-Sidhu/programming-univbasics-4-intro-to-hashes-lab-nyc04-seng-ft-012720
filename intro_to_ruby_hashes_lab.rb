@@ -6,13 +6,13 @@ end
 
 def my_hash
   my_hash ={
-    name: Sam
+    name: "Sam"
   }
 end
 
 def pioneer
  pio ={
-   name: Grace Hopper
+   name: "Grace Hopper"
  }
 end
 
